@@ -1,0 +1,26 @@
+{
+  "name": "onlinestorewithoutpayment",
+  "version": "1.0.0",
+  "description": "A basic online store, but without any actual payment processing.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rewrite123/onlineStoreWithoutPayment.git"
+  },
+  "author": "Greenman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rewrite123/onlineStoreWithoutPayment/issues"
+  },
+  "homepage": "https://github.com/rewrite123/onlineStoreWithoutPayment#readme",
+  "dependencies": {
+    "cli-table3": "^0.5.1",
+    "console.table": "^0.10.0",
+    "electron": "^3.0.10",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
